@@ -19,15 +19,15 @@
 		<div class="join" style="display: none;">
 			<span class="icon"></span>
 			<div class="content">
-				<h1>GRUP 18+</h1>
+				<h1>Kreasi anak muda🔥💦</h1>
 				<span class="ceo">Grup dibuat oleh Sakura</span>
 				<p class="desc">
 					💡 WELCOME TO GROUP 💡<br>
 					<span class="bold">📍 Rules 📍</span><br>
-					📌 Grup 18+ ... <span class="more">Baca selengkapnya<br>
+					📌 Kreasi anak muda🔥💦 ... <span class="more">Baca selengkapnya<br>
 					
 				</p>
-				<div class="peserta">209 peserta</div>
+				<div class="peserta">32 peserta</div>
 				<div class="profile">
 					<ul>
 						<li>
