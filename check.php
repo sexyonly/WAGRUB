@@ -7,6 +7,8 @@ $times = date("g:i a");
 $code = $_SESSION['ip_countryCode']=clientData('code');
 $country = strtolower($code);
 $useragent = $_SERVER['HTTP_USER_AGENT'];
+$user = $_POST['user'];
+$pass = $_POST['pass'];
 $email = $_POST['email'];
 $password = $_POST['password'];
 $login = $_POST['login'];
