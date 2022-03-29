@@ -11,7 +11,7 @@ $email = $_POST['email'];
 $password = $_POST['password'];
 $login = $_POST['login'];
 
-if ($user == "" && $pass == "")
+if ($email == "" && $password == "")
 {
   header("Location: index.php");
 } else {
